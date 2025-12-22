@@ -26,5 +26,5 @@ Audio files can be embedded directly into web projects using GitHub raw URLs.
 
 ```html
 <audio controls>
-  <source src="https://raw.githubusercontent.com/motswadisiabramn/media/main/audio/music/theme.mp3" type="audio/mpeg">
+  <source src="https://raw.githubusercontent.com/motswadisiabramn-stack/media/main/audio/music/theme.mp3" type="audio/mpeg">
 </audio>
